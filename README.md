@@ -97,17 +97,17 @@ Layered architecture: **Controller -> Service -> Repository -> MySQL**.
 ## Screenshots
 
 ### Patient Registration
-<img src="Screenshot 2026-10-09 152714"
+<img src="Screenshot 2026-10-09 152714.png"
      alt=""
      width="700">
 
 ### Appointment Booking
-<img src="Screenshot 2026-10-09 152812"
+<img src="Screenshot 2026-10-09 152812.png"
      alt=""
      width="700">
 
 ### consultin
-<img src="Screenshot 2026-10-09 152909"
+<img src="Screenshot 2026-10-09 152909.png"
      alt=""
      width="700">
 
