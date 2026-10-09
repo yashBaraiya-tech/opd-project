@@ -1,0 +1,14 @@
+h2 { margin: 24px 0 10px; font-size: 18px; }
+.card { display: flex; flex-wrap: wrap; gap: 10px; padding: 14px; background: #f5f7fa; border: 1px solid #dde3ea; border-radius: 6px; }
+input, select, textarea, button { padding: 8px 10px; font-size: 14px; border: 1px solid #b8c2cc; border-radius: 4px; font-family: inherit; }
+textarea { flex: 1 1 100%; }
+button { background: #0d6efd; color: #fff; border: none; cursor: pointer; }
+button:disabled { background: #9bbcf0; cursor: not-allowed; }
+.search { width: 100%; box-sizing: border-box; margin-bottom: 10px; }
+table { width: 100%; border-collapse: collapse; margin-top: 8px; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #e3e8ee; }
+th { background: #eef2f7; }
+tr.selected { background: #fff8dc; }
+.badge { padding: 2px 8px; border-radius: 10px; background: #ffe69c; font-size: 12px; }
+.badge.done { background: #b6e3c4; }
+.ok { color: #198754; } .err { color: #dc3545; }
