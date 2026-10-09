@@ -93,3 +93,21 @@ Layered architecture: **Controller -> Service -> Repository -> MySQL**.
 - *Why one-to-one with unique column?* DB-level guarantee of a single consultation per appointment.
 - *Why `ddl-auto=update`?* Fast for a demo; use Flyway/Liquibase in production.
 - *What would you add next?* JWT login (Spring Security), pagination, doctor-wise filtering, unit tests (MockMvc/Mockito), reports.
+
+## Screenshots
+
+### Patient Registration
+<img src=""
+     alt=""
+     width="700">
+
+### Appointment Booking
+<img src=""
+     alt=""
+     width="700">
+
+### Appointment Booking
+<img src=""
+     alt=""
+     width="700">
+
